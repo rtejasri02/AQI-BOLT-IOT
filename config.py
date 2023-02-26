@@ -1,0 +1,8 @@
+SID              = "Twilio SID"
+AUTH_TOKEN       = "Twilio Authentication Token"
+FROM_NUMBER      = "From Number provided By Twilio"
+TO_NUMBER        = "To Number Provided By Twilio"
+api_key          = "Bolt Api Key"
+device_id        = "BOLT Device Id"
+weather_api_key  = "Openweathermap Api Key"
+weather_base_url = "https://api.openweathermap.org/data/2.5/air_pollution?"
