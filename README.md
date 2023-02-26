@@ -1,6 +1,6 @@
 
 # AQI-BOLT-IOT
-STOP POLLUTION BY MITIGATION
+REAL TIME AQI
  
 
 Pollution enters the earth's atmosphere in different ways, but the current burning issue is regarding air pollution as the world is getting developed with its new technology and inventions there are lot of harmful emissions which causes our atmosphere polluted.
